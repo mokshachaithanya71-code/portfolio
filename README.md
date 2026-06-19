@@ -1,3 +1,3 @@
 # Moksha Chaithanya
 ## About me
-I am intrested in Backend Development and Deep  learning.
+I am intrested in Deep  learning.
